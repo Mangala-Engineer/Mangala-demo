@@ -1,2 +1,2 @@
 # Mangala-demo
-This is my first repository Git
+This is my first Git Repository.
